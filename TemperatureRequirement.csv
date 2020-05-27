@@ -1,0 +1,19 @@
+Crop,TemperatureRequirementMin,TemperatureRequirementMax
+Rice,15,27
+Wheat,12,25
+Maize,15,27
+Millets,20,35
+Bajra,25,35
+Groundnut,20,30
+Sugarcane,20,35
+Cotton,18,27
+Tea,15,35
+Coffee,15,28
+Cocoa,18,35
+Rubber,27,27
+Jute,25,35
+Coconut,27,27
+Clove,25,35
+Black Pepper,15,40
+Cardamom,10,35
+Turmeric,20,30

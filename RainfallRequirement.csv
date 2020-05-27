@@ -1,0 +1,19 @@
+Crop,RainfallRequirementMin,RainfallRequirementMax
+Rice,100,150
+Wheat,25,75
+Maize,65,125
+Millets,25,75
+Bajra,25,60
+Groundnut,50,75
+Sugarcane,85,165
+Cotton,60,110
+Tea,100,250
+Coffee,125,225
+Cocoa,100,250
+Rubber,150,250
+Jute,150,250
+Coconut,100,250
+Clove,200,250
+Black Pepper,200,300
+Cardamom,150,400
+Turmeric,150,250
